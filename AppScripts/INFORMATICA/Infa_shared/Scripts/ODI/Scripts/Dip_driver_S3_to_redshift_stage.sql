@@ -5,3 +5,4 @@ dateformat 'auto'
 timeformat 'auto'
 MAXERROR 10
 new line
+line 1
