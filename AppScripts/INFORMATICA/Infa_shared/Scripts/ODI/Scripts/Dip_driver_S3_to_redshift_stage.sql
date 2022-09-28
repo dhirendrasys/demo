@@ -4,3 +4,4 @@ ACCEPTINVCHARS AS '?'
 dateformat 'auto'
 timeformat 'auto'
 MAXERROR 10
+testing
