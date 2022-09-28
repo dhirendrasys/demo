@@ -3,3 +3,4 @@ DELIMITER '|'
 ACCEPTINVCHARS AS '?'
 dateformat 'auto'
 timeformat 'auto';
+line 1
