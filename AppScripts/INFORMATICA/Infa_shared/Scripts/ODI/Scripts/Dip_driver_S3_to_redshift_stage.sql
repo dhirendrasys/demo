@@ -4,6 +4,4 @@ ACCEPTINVCHARS AS '?'
 dateformat 'auto'
 timeformat 'auto'
 MAXERROR 10
-rsync
-rsync 2
-rsync 3
+added rsync
