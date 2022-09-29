@@ -5,3 +5,4 @@ dateformat 'auto'
 timeformat 'auto'
 MAXERROR 10
 rsync
+rsync 2
