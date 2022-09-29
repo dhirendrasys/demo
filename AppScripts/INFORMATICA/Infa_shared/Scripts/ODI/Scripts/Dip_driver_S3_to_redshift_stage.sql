@@ -6,3 +6,4 @@ timeformat 'auto'
 MAXERROR 10
 testing
 testing 2
+rsync
