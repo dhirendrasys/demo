@@ -9,3 +9,4 @@ IGNOREHEADER AS 1
 GZIP
 ;
 rsync 5
+rsync 10
