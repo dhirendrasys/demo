@@ -6,3 +6,4 @@ timeformat 'auto'
 MAXERROR 10
 added rsync
 rsync 2
+rsync 3
