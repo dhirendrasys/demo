@@ -1,4 +1,4 @@
- CREATE TABLE COMPANY7(
+ CREATE TABLE CICD-test(
    ID INT PRIMARY KEY     NOT NULL,
    NAME           TEXT    NOT NULL,
    AGE            INT     NOT NULL,
