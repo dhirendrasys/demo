@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS stg.cicd_demo
+CREATE TABLE IF  EXISTS stg.cicd_demo
 (
 	column1 VARCHAR(225)
 	,column2 VARCHAR(225)
