@@ -5,3 +5,5 @@
    ADDRESS        CHAR(50),
    SALARY         REAL
 );
+
+line 1
