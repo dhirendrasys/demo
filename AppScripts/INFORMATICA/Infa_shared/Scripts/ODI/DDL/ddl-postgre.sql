@@ -1,4 +1,4 @@
- CREATE TABLE CICD_test3(
+ CREATE TABLE CICD_testing(
    ID INT PRIMARY KEY     NOT NULL,
    NAME           TEXT    NOT NULL,
    AGE            INT     NOT NULL,
