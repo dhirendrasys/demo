@@ -6,4 +6,3 @@
    SALARY         REAL
 );
 
-line 1
