@@ -3,7 +3,7 @@ truncate table stg.adp_warehousetimecardextract;COPY stg.adp_warehousetimecardex
 
 
 FROM 'S3_DEV_BUCKET_NAME/ADPWhsepaycode/PBPWHSE_'
-IAM_ROLE '${DEV_IAM_ROLE}''
+IAM_ROLE 'DEV_IAM_ROLE'
 DELIMITER ','
 ACCEPTINVCHARS AS '?'
 dateformat 'auto'
