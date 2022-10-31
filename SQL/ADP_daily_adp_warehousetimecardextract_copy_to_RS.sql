@@ -2,8 +2,8 @@ truncate table stg.adp_warehousetimecardextract;COPY stg.adp_warehousetimecardex
 
 
 
-FROM 's3://sysco-dev-odi-us-east-1/ADPWhsepaycode/PBPWHSE_'
-IAM_ROLE 'arn:aws:iam::782512261157:role/Application-ODI-RedshiftRole'
+FROM 'S3_DEV_BUCKET_NAME/ADPWhsepaycode/PBPWHSE_'
+IAM_ROLE 'DEV_IAM_ROLE'
 DELIMITER ','
 ACCEPTINVCHARS AS '?'
 dateformat 'auto'
@@ -12,3 +12,4 @@ IGNOREHEADER AS 1
 REMOVEQUOTES
 GZIP
 ;
+line 3
